@@ -7,7 +7,7 @@ This repository contains codes for simulating and evaluating various balancing s
 ## 📁 Contents
 
 - `simulation_scenario_1.py` – Synthetic data simulation under Scenario 1. 
-- `experiment_creditcard.py` – Empirical evaluation using the credit card fraud dataset.
+- `experiment_car_evaluation.py` – Empirical evaluation using the car evaluation dataset from the UCI Machine Learning Repository.
 
 ---
 
