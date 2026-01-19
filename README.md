@@ -8,6 +8,7 @@ This repository contains codes for simulating and evaluating various balancing s
 
 - `simulation_scenario_1.py` – Synthetic data simulation under Scenario 1. 
 - `experiment_car_evaluation.py` – Empirical evaluation using the car evaluation dataset from the UCI Machine Learning Repository.
+- `Simulation&Application.ipynb` - Organized Code for both Simulation and Application
 
 ---
 
